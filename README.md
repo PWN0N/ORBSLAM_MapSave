@@ -6,12 +6,19 @@
 # What's new?
 
 **1.Add the Map Save/Load Function**
+
 Add a Save Map Button on The Map Viewer Window.
+
 **2.Change the Way of Inputting Parameters Files by Reading the Setting.yaml File.**
+
 **3.Boost the Speed of reading the ORB Vocabulary Files**
+
 Either the .bin File or .txt File is ok, It Will Reading the File in a Proper Way Automactilly.
+
 **4.It Can Run without ROS Environment.**
+
 Add a Shut Down Button on The Map Viewer Window.
+
 
 #1. License
 
