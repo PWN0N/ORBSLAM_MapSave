@@ -6,6 +6,7 @@
 .idea/**/tasks.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
@@ -23,6 +24,7 @@
 # CMake
 cmake-build-debug/
 cmake-build-release/
+cmake_modules/
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
